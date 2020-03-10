@@ -18,4 +18,5 @@
 * [课程十五：Fast RPC](ke-cheng-shi-wu-fast-rpc.md)
 * [课程十六：大数据Spark](ke-cheng-shi-liu-da-shu-ju-spark.md)
 * [课程十七：缓存一致性 Facebook对Memcached的使用](ke-cheng-shi-qi-huan-cun-yi-zhi-xing-facebook-dui-memcached-de-shi-yong.md)
+* [课程十八：因果一致性COPS](ke-cheng-shi-ba-yin-guo-yi-zhi-xing-cops.md)
 
