@@ -21,4 +21,6 @@
 * [课程十八：因果一致性COPS](ke-cheng-shi-ba-yin-guo-yi-zhi-xing-cops.md)
 * [课程十九：因果一致性Fuzzylog](ke-cheng-shi-jiu-yin-guo-yi-zhi-xing-fuzzylog.md)
 * [课程二十：Fork一致性，证书透明度](ke-cheng-er-shi-fork-yi-zhi-xing-zheng-shu-tou-ming-du.md)
+* [课程二十一：Peer-to-peer: 比特币](ke-cheng-er-shi-yi-peertopeer-bi-te-bi.md)
+* [课程二十二：BlockStack区块栈](ke-cheng-er-shi-er-blockstack-qu-kuai-zhan.md)
 
