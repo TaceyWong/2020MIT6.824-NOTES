@@ -17,4 +17,5 @@
 * [课程十四：乐观并发控制](ke-cheng-shi-si-le-guan-bing-fa-kong-zhi.md)
 * [课程十五：Fast RPC](ke-cheng-shi-wu-fast-rpc.md)
 * [课程十六：大数据Spark](ke-cheng-shi-liu-da-shu-ju-spark.md)
+* [课程十七：缓存一致性 Facebook对Memcached的使用](ke-cheng-shi-qi-huan-cun-yi-zhi-xing-facebook-dui-memcached-de-shi-yong.md)
 
