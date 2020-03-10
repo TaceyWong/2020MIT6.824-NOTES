@@ -14,4 +14,6 @@
 * [课程十一：缓存一致性Frangipani](ke-cheng-shi-yi-huan-cun-yi-zhi-xing-frangipani.md)
 * [课程十二：分布式事务](ke-cheng-shi-er-fen-bu-shi-shi-wu.md)
 * [课程十三：Spanner](ke-cheng-shi-san-spanner.md)
+* [课程十四：乐观并发控制](ke-cheng-shi-si-le-guan-bing-fa-kong-zhi.md)
+* [课程十五：Fast RPC](ke-cheng-shi-wu-fast-rpc.md)
 
