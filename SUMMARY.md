@@ -10,4 +10,5 @@
 * [课程七：容错——Raft\(2\)](ke-cheng-qi-rong-cuo-raft2.md)
 * [课程八： Zookeeper](ke-cheng-ba-zookeeper.md)
 * [课程九：连锁复制，CRAQ](ke-cheng-jiu-lian-suo-fu-zhi-craq.md)
+* [课程十：云复制数据库数据库Amazon Aurora](ke-cheng-shi-yun-fu-zhi-shu-ju-ku-shu-ju-ku-amazon-aurora.md)
 
